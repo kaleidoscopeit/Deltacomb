@@ -1,0 +1,24 @@
+DC-02-001 Linear Shaft (X2)
+DC-02-002 Axis Motor Plate
+DC-02-003 Axis Motor Holder
+DC-02-004 Axis Motor
+DC-02-005 Axis Motor Ball Bearing
+DC-02-006 Pulley 
+DC-02-007 Pulley Grub screw (X2)
+DC-02-008 Idler Support
+DC-02-009 F623ZZ Flanged Ball Bearing (X2)
+DC-02-010 GT2 Timing Belt 50cm
+DC-02-011 Carriage
+DC-02-012 Plastic Linear Bearing (X2)
+DC-02-013 Belt Clamp
+
+DC-02-011 M6x20mm Socket Button Hex Head Screw (X4)
+DC-02-012 M6 Washer (X2)
+DC-02-031 M3x10mm Socket Button Hex Head Screw (X8)
+DC-02-032 M3 Nut (X8)
+DC-02-033 M3 Washer X8
+DC-02-085 M3x22mm Hex Head Screw
+DC-02-086 M3 Nut
+DC-02-131 M3x??mm Hex Head Screw (X3)
+DC-02-132 M3 Nut (X3)
+DC-02-133 M3x9mm Washer (X3)
