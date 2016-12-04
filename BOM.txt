@@ -1,3 +1,5 @@
+DC-02 Tower Assembly (X3)
+==================================================
 DC-02-001 Linear Shaft (X2)
 DC-02-002 Axis Motor Plate
 DC-02-003 Axis Motor Holder
@@ -11,6 +13,9 @@ DC-02-010 GT2 Timing Belt 50cm
 DC-02-011 Carriage
 DC-02-012 Plastic Linear Bearing (X2)
 DC-02-013 Belt Clamp
+DC-02-014 End Stop Holder Base
+DC-02-015 End Stop Holder Slide
+DC-02-016 End Stop Holder Cam
 
 DC-02-011 M6x20mm Socket Button Hex Head Screw (X4)
 DC-02-012 M6 Washer (X2)
@@ -22,3 +27,6 @@ DC-02-086 M3 Nut
 DC-02-131 M3x??mm Hex Head Screw (X3)
 DC-02-132 M3 Nut (X3)
 DC-02-133 M3x9mm Washer (X3)
+DC-02-141 M3x??mm Hex Head Screw
+DC-02-142 M3 Nut
+DC-02-143 M3 Washer
