@@ -1,3 +1,3 @@
 # Deltacomb
 
-![Deltacomb Logo](/mdimages/Deltacomb Sketch 640.png)
+![Deltacomb Logo](/mdimages/DC-02-Images-Kitchen-ISO.jpg)
