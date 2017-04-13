@@ -1,32 +1,117 @@
-DC-02 Tower Assembly (X3)
-==================================================
-DC-02-001 Linear Shaft (X2)
-DC-02-002 Axis Motor Plate
-DC-02-003 Axis Motor Holder
-DC-02-004 Axis Motor
-DC-02-005 Axis Motor Ball Bearing
-DC-02-006 Pulley 
-DC-02-007 Pulley Grub screw (X2)
-DC-02-008 Idler Support
-DC-02-009 F623ZZ Flanged Ball Bearing (X2)
-DC-02-010 GT2 Timing Belt 50cm
-DC-02-011 Carriage
-DC-02-012 Plastic Linear Bearing (X2)
-DC-02-013 Belt Clamp
-DC-02-014 End Stop Holder Base
-DC-02-015 End Stop Holder Slide
-DC-02-016 End Stop Holder Cam
+DC-02-010 Linear Shaft (X2)
+DC-02-011 Axis Motor Plate
+DC-02-510 M6x16mm ISO7380 (X4)
+DC-02-511 M6x12mm Washer (X2)
 
-DC-02-011 M6x20mm Socket Button Hex Head Screw (X4)
-DC-02-012 M6 Washer (X2)
-DC-02-031 M3x10mm Socket Button Hex Head Screw (X8)
-DC-02-032 M3 Nut (X8)
-DC-02-033 M3 Washer X8
-DC-02-085 M3x22mm Hex Head Screw
-DC-02-086 M3 Nut
-DC-02-131 M3x??mm Hex Head Screw (X3)
-DC-02-132 M3 Nut (X3)
-DC-02-133 M3x9mm Washer (X3)
-DC-02-141 M3x??mm Hex Head Screw
-DC-02-142 M3 Nut
-DC-02-143 M3 Washer
+DC-02-020 Axis Motor
+DC-02-021 Axis Motor Holder
+DC-02-022 Axis Motor Ball Bearing (mr105zz)
+DC-02-023 Pulley 
+DC-02-024 Pulley Grub screw (X2)
+DC-02-500 M3 Nut (X4)
+DC-02-501 M3x9mm Washer (X4)
+DC-02-502 M3x7mm Washer (X4)
+DC-02-503 M3x8mm ISO7380 (X8)
+DC-02-615 JST 2.54 6P F (X3) (Motors + Endstop)
+
+DC-02-030 Idler Holder
+DC-02-031 F623ZZ Flanged Ball Bearing (X2)
+DC-02-500 M3 Nut (X2)
+DC-02-502 M3x7mm Washer (X1)
+DC-02-504 M3x20mm ISO7380 (X1)
+DC-02-520 M3x16mm DIN912 (X2)
+
+DC-02-040 Carriage
+DC-02-041 Plastic bushing (X4)
+DC-02-042 Round Magnet (X2)
+DC-02-044 M4 Grub screw (X2)
+DC-02-045 Belt Clamp
+DC-02-046 GT2 Timing Belt 50cm
+DC-02-500 M3 Nut (X2)
+DC-02-501 M3x9mm Washer (X2)
+DC-02-520 M3x16mm DIN912 (X2)
+
+DC-02-050 End Stop
+DC-02-051 End Stop Holder
+
+DC-02-060 Back Panel
+DC-02-061 Top Panel
+DC-02-062 Bottom Panel
+DC-02-063 Left Panel
+DC-02-064 Right Panel
+DC-02-065 Front Panel
+DC-02-066 LED Strip 1MT
+DC-02-067 SPDT Switch 240V 3A
+DC-02-500 M3 Nut (X40)
+DC-02-505 M3x16mm ISO7380 (X40)
+DC-02-611 JST 2.54 2P F (X1) (LED)
+
+DC-02-070 Glass Rounded Bed
+DC-02-071 Fixed Bed Clamp (x2)
+DC-02-072 Mobile Bed Clamp (x1)
+DC-02-530 4x11 Spring (x2)
+DC-02-522 M3x10mm DIN912 (x6)
+
+DC-02-080 Arduino Mega
+DC-02-081 Ramps 1.4
+DC-02-082 Pololu A4988 (x4)
+DC-02-083 120x80x50 ABS Box Back
+DC-02-084 120x80x50 ABS Box Front
+(DC-02-085 Fan 60x10mm)
+DC-02-086 Display Adapter
+DC-02-087 Smart Display
+DC-02-088 Display Cables
+DC-02-610 JST 2.54 2P M (X1) (LED)
+DC-02-612 JST 2.54 4P M (X2) (E Motor + Effector Services)
+DC-02-614 JST 2.54 6P M (X3) (XYZ Motors + Endstops)
+DC-02-600 Tamiya EL4.5 2P M
+DC-02-620 DuPont 2P (X2) (Bed Level + Temp Probe)
+DC-02-620 DuPont 2P (X3) (XYZ Endstops)
+DC-02-621 DuPont 4P (X4) (XYZE Motors)
+DC-02-630 Faston Male
+DC-02-631 Faston Female
+DC-02-680 Cable 16AWG 2P (X0.52)
+DC-02-681 Cable 20AWG 2P (X1.08)
+DC-02-682 Cable 26AWG 3P (X0.92)
+
+DC-02-090 PTFE Bypass Clamp RF
+DC-02-091 PTFE Bypass Clamp RB
+DC-02-092 PTFE Bypass tube R1 (50mm ?)
+DC-02-093 PTFE Bypass tube R2 (50mm ?)
+DC-02-522 M3x10mm DIN912 (x3)
+
+DC-02-100 Power Switch Case
+DC-02-101 SPDT Switch 240V 6A
+DC-02-102 Power Jack DC022B
+DC-02-506 M3x12mm ISO7380 (X2)
+DC-02-631 Faston Female (X2)
+
+DC-02-110 carbon fiber tube (X6)
+DC-02-111 Steel ball 10mm (X12)
+DC-02-111 M4 Threaded rod 20mm (X12)
+
+DC-02-120 E3D V6
+DC-02-121 Effector Body
+DC-02-122 Fan 30x10mm (X3)
+DC-02-523 M3x12mm DIN912 (X12)
+DC-02-042 Round Magnet (X6)
+DC-02-044 M4 Grub screw (X6)
+DC-02-520 M3x16mm DIN912 (X3) (Cap mount)
+DC-02-530 4x11 Spring (X3) (Cap mount)
+DC-02-522 M3x10mm DIN912 (X2) (Bed level contact)
+DC-02-520 M3x16mm DIN912 (X2) (Cap joint)
+DC-02-500 M3 Nut (X2) (Cap joint)
+DC-02-601 Tamiya EL4.5 2P F
+DC-02-613 JST 2.54 4P F
+
+DC-02-130 MK8 Gear Extruder
+DC-02-131 Extruder Motor (NEMA17 48mm)
+DC-02-613 JST 2.54 4P F
+
+DC-02-140 Spool Holder Body
+DC-02-141 Spool Holder Base
+DC-02-142 Spool Holder Cap (2 pieces)
+DC-02-500 M3 Nut (X2)
+DC-02-501 M3x9mm Washer (X2)
+DC-02-520 M3x16mm DIN912 (X2) ?
+
